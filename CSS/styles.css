@@ -1,0 +1,83 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+  margin: 0 auto 0 auto;
+  color:#66bfbf;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  font-size: 150px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color:#66bfbf;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color:#11999E;
+  font-weight: normal;
+}
+p{
+  font-size: 30px;
+}
+.prog{
+  color:#66bfbf;
+  font-weight: normal;
+}
+.top-container{
+  background-color:#EEF2E6;
+  position:relative;
+  padding-top: 100px;
+}
+
+.bottom-container{
+font-size: 30px;
+}
+.btn{
+  font-size: 30px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom:330px;
+}
+
+.mountain{
+  height:340px;
+  width:2300px;
+}
+
+
+.sing{
+  width:350px;
+  height:350px;
+}
+.chess{
+  width:400px;
+  height:400px;
+}
+.coding{
+  width:350px;
+  height:350px;
+}
+.montain{
+  margin-top: 0;
+}
+.under{
+  text-decoration: underline;
+}
+.hove:hover{
+  color: red;
+}
